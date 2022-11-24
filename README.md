@@ -905,7 +905,7 @@ and to obtain other variables, other than NDMI.
 
 # Acknowledgements
 
-This software was developed by [Compass Information](https://compass.ie),
+This software was developed by [Compass Informatics](https://compass.ie),
 as part of the [ECHOES project](https://echoesproj.eu/).
 
 The ECHOES project is funded by [an Irish Welsh Programme](https://irelandwales.eu),
