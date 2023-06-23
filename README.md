@@ -195,7 +195,7 @@ The size of the virtual machines ranges from 1 (virtual) core and 1 GB of RAM to
 possible to spin up multiple
 instance if required for large-scale processing. The price list is found [here](https://creodias.eu/price-list).
 
-## Sentinel Hub
+## Sentinel Hub (Requires Subscription)
 
 [Sentinel Hub](https://www.sentinel-hub.com/) is a multi-spectral and multi-temporal, big data, satellite imagery
 service.
